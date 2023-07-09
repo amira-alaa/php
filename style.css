@@ -1,0 +1,26 @@
+body{
+    position: relative;
+}
+.formm{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    align-items: center;
+}
+form{
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+}
+.email,.pass{
+    padding-top: 20px;
+    text-align: center;
+    align-items: center;
+}
+.out{
+    margin-top:90px ;
+}
